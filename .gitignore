@@ -1,0 +1,13 @@
+# IDE and Editor Files
+**/*~
+**/*#
+
+# Binaries
+**/__pycache__
+text/*
+*.DS_Store
+
+# LaTex
+docs/*.aux
+docs/*.log
+docs/*.pdf
